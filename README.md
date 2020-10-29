@@ -5,8 +5,10 @@
   <a href="https://www.instagram.com/gianmarcoricciarelli/"><img width="50" src="https://github.com/germz01/germz01/blob/main/instagram_doodle.png"></a>
   <a href="https://open.spotify.com/user/1168521308"><img width="50" src="https://github.com/germz01/germz01/blob/main/spotify_doodle.png"></a>
 </p>
-### Hi there 👋
 
+<p align='center'>
+  <img src="https://media.giphy.com/media/8jUeyfpMF6gj6/giphy.gif">
+</p>
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
