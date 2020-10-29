@@ -2,6 +2,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/"><img width="50" src="https://github.com/germz01/germz01/blob/main/linkedin_doodle.png"></a>
+  <a href="https://www.instagram.com/gianmarcoricciarelli/"><img width="50" src="https://github.com/germz01/germz01/blob/main/instagram_doodle.png"></a>
 </p>
 ### Hi there 👋
 
