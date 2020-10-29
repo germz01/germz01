@@ -1,4 +1,6 @@
-![Header](https://github.com/germz01/germz01/blob/main/kodak%20color%20026_exported.jpg)
+<p align='center'>
+  <img width='600' src='https://github.com/germz01/germz01/blob/main/kodak%20color%20026_exported.jpg'>
+</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/"><img width="50" src="https://github.com/germz01/germz01/blob/main/linkedin_doodle.png"></a>
@@ -7,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://media.giphy.com/media/8jUeyfpMF6gj6/giphy.gif">
+  <img width='300' src="https://media.giphy.com/media/8jUeyfpMF6gj6/giphy.gif">
 </p>
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
