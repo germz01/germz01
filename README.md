@@ -1,3 +1,4 @@
+![Header](https://github.com/germz01/germz01/blob/main/kodak%20color%20026_exported.jpg)
 ### Hi there 👋
 
 <!--
