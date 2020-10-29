@@ -1,4 +1,8 @@
 ![Header](https://github.com/germz01/germz01/blob/main/kodak%20color%20026_exported.jpg)
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/"><img width="50" src="https://github.com/germz01/germz01/blob/main/linkedin_doodle.png"></a>
+</p>
 ### Hi there 👋
 
 <!--
