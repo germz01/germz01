@@ -5,17 +5,20 @@ I'm a **Web Developer** based in Tuscany, Italy, and I'm all about discovering a
 
 ## My Stack 💻
 
-At the moment I'm working with this technologies
+At the moment I'm working with this technologies:
 * .NET & .NET Core
 * JavaScript
 * HTML
 * CSS/SASS
 
 ## Want to Learn 🤩
-In the future I'm thinking about learning:
+In the future I'm I'm planning to learn:
 * React
 * Angular
 * Vue
+
+# You can find me on
+* [LinkedIn](https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/)
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
