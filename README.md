@@ -17,7 +17,7 @@ In the future I'm I'm planning to learn:
 * Angular
 * Vue
 
-# You can find me on
+## You can find me on 📫
 * [LinkedIn](https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/)
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
