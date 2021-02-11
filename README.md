@@ -1,16 +1,21 @@
-<p align='center'>
-  <img width='600' src='https://github.com/germz01/germz01/blob/main/kodak%20color%20026_exported.jpg'>
-</p>
+# Welcome to my GitHub 😁
+Hi! My name is Gianmarco, welcome to my ~~fabolous~~ GitHub profile.
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/"><img width="50" src="https://github.com/germz01/germz01/blob/main/linkedin_doodle.png"></a>
-  <a href="https://www.instagram.com/gianmarcoricciarelli/"><img width="50" src="https://github.com/germz01/germz01/blob/main/instagram_doodle.png"></a>
-  <a href="https://open.spotify.com/user/1168521308"><img width="50" src="https://github.com/germz01/germz01/blob/main/spotify_doodle.png"></a>
-</p>
+I'm a **Web Developer** based in Tuscany, Italy, and I'm all about discovering and trying new technologies.
 
-<p align='center'>
-  <img width='300' src="https://media.giphy.com/media/8jUeyfpMF6gj6/giphy.gif">
-</p>
+## My Stack 💻
+
+At the moment I'm working with this technologies
+* .NET & .NET Core
+* JavaScript
+* HTML
+* CSS/SASS
+
+## Want to Learn 🤩
+In the future I'm thinking about learning:
+* React
+* Angular
+* Vue
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
