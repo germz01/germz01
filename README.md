@@ -1,15 +1,15 @@
 # Welcome to my GitHub 😁
-Hi! My name is Gianmarco, welcome to my ~~fabolous~~ GitHub profile.
+Hi! My name is Gianmarco, welcome to my ~~spectacular~~ GitHub profile.
 
 I'm a **Web Developer** based in Tuscany, Italy, and I'm all about discovering and trying new technologies.
 
 ## My Stack 💻
 
 At the moment I'm working with this technologies:
-* .NET & .NET Core
-* JavaScript
-* HTML
-* CSS/SASS
+* .NET & .NET Core 🗡
+* JavaScript 💡
+* HTML 📐
+* CSS (regular and SASS) 🖌
 
 ## Want to Learn 🤩
 In the future I'm I'm planning to learn:
@@ -18,7 +18,10 @@ In the future I'm I'm planning to learn:
 * Vue
 
 ## You can find me on 📫
+* [Facebook](https://it-it.facebook.com/gianmarco.ricciarelli)
+* [Instagram](https://www.instagram.com/gianmarcoricciarelli/)
 * [LinkedIn](https://www.linkedin.com/in/gianmarco-ricciarelli-b51a7b89/)
+* [Mail](mailto:gianmarcoricciarelli@gmail.com)
 <!--
 **germz01/germz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
