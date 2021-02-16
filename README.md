@@ -6,7 +6,7 @@ I'm a **Web Developer** based in Tuscany, Italy, and I'm all about discovering a
 
 ## My Stack 💻
 
-At the moment I'm working with this technologies:
+At the moment I'm working with these technologies:
 
 - .NET & .NET Core 🗡
 - JavaScript 💡
@@ -15,7 +15,7 @@ At the moment I'm working with this technologies:
 
 ## Want to Learn 🤩
 
-In the future I'm I'm planning to learn:
+In the future I'm planning to learn:
 
 - [x] React
 - [ ] Angular
