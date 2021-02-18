@@ -18,6 +18,7 @@ At the moment I'm working with this technologies:
 In the future I'm I'm planning to learn:
 
 - [x] React
+- [ ] TypeScript
 - [ ] Angular
 - [ ] Vue
 
